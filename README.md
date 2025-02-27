@@ -1,6 +1,6 @@
 # **Milestone 3 - Data Pipeline Automation**
 
-This repository contains the implementation for **Milestone 3** of the Hacktiv8 Data Science Fulltime Program. The project focuses on automating data workflows using **Apache Airflow**, validating data with **Great Expectations**, and integrating with **Elasticsearch and Kibana**.
+The project focuses on automating data workflows using **Apache Airflow**, validating data with **Great Expectations**, and integrating with **Elasticsearch and Kibana**.
 
 ---
 
