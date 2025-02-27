@@ -1,4 +1,4 @@
-# **Milestone 3 - Data Pipeline Automation**
+# **Data Pipeline Automation**
 
 The project focuses on automating data workflows using **Apache Airflow**, validating data with **Great Expectations**, and integrating with **Elasticsearch and Kibana**.
 
