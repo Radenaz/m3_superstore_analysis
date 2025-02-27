@@ -35,7 +35,7 @@ The goal of this project is to automate a **data pipeline** that extracts data f
 ---
 
 ## **Dataset Information**
-- **Source**: [Sample - Superstore Dataset](https://github.com/ardhiraka/DEBlitz)
+- **Source**: [Sample - Superstore Dataset]([https://github.com/ardhiraka/DEBlitz](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting/data))
 - **Description**: The dataset contains order transactions, customer details, and product information.
 
 ---
@@ -47,7 +47,6 @@ The goal of this project is to automate a **data pipeline** that extracts data f
 2. Clone the repository:
    ```sh
    git clone https://github.com/YOUR_GITHUB_USERNAME/P2-M3_nikoahakam.git
-   cd P2-M3_nikoahakam
    ```
 
 ### **Run Services**
