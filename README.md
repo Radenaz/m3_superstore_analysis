@@ -74,7 +74,7 @@ The pipeline consists of **three automated tasks** in Airflow:
    - Loads the cleaned data into Elasticsearch.
 
 ### **DAG Workflow**
-![DAG Workflow](images/P2M3_nikoahakam_DAG_graph.png)
+![DAG Workflow](P2M3_nikoahakam_DAG_graph.png)
 
 ---
 
